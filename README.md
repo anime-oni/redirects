@@ -1,2 +1,2 @@
 # redirects
-# Mainly just sends you to website.
+## Mainly just sends you to website.
